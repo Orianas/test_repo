@@ -9,5 +9,7 @@ int main () {
 
     std::cout << "That's great that your favorite color is " << color << "." << std::endl;
 
+    std::cout << "Congratulations." << std::endl;
+
     return 0;
 }
